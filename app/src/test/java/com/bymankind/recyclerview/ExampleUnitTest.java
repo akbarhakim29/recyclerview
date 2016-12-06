@@ -1,4 +1,4 @@
-package com.bymankind.cardview;
+package com.bymankind.recyclerview;
 
 import org.junit.Test;
 

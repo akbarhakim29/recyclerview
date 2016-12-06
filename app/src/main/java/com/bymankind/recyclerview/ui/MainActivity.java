@@ -1,4 +1,4 @@
-package com.bymankind.cardview.ui;
+package com.bymankind.recyclerview.ui;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -11,9 +11,9 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.bymankind.cardview.R;
-import com.bymankind.cardview.adapter.DerpAdapter;
-import com.bymankind.cardview.model.DerpData;
+import com.bymankind.recyclerview.R;
+import com.bymankind.recyclerview.adapter.DerpAdapter;
+import com.bymankind.recyclerview.model.DerpData;
 
 public class MainActivity extends AppCompatActivity {
     private RecyclerView recyclerView;

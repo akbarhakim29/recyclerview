@@ -1,4 +1,4 @@
-package com.bymankind.cardview.model;
+package com.bymankind.recyclerview.model;
 
 import java.util.ArrayList;
 import java.util.List;

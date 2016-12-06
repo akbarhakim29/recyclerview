@@ -1,4 +1,4 @@
-package com.bymankind.cardview.model;
+package com.bymankind.recyclerview.model;
 
 /**
  * Created by Server-Panduit on 12/5/2016.

@@ -1,17 +1,15 @@
-package com.bymankind.cardview.adapter;
+package com.bymankind.recyclerview.adapter;
 
 import android.content.Context;
-import android.support.v7.app.AlertDialog;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import com.bymankind.cardview.R;
-import com.bymankind.cardview.model.ListItem;
+import com.bymankind.recyclerview.R;
+import com.bymankind.recyclerview.model.ListItem;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.bymankind.cardview;
+package com.bymankind.recyclerview;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
